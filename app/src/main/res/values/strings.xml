@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="email_address">Email Adress</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="info_username_password">The password cannot be blank and must contain at least 4 characters.&#13;&#10;
+        The email address must be a valid address.</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">Invalid password</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="email_address">Indirizzo Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Accedi</string>
+    <string name="info_username_password">La password non può essere vuota e deve contenere almeno 4 caratteri.&#13;&#10;
+        L indirizzo e-mail deve essere un indirizzo valido.</string>
+    <string name="invalid_email">Email non valida</string>
+    <string name="invalid_password">Password non valida</string>
+</resources>
